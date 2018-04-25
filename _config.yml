@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Mister Sittler Writes Code
 header-img: img/home-bg.png
 email: neil@stickflower.com
 copyright_name: mistersittler
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The evolution of my career continues here...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mistersittler
